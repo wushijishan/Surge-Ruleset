@@ -1,0 +1,23 @@
+#Bahamut
+USER-AGENT,Anime*
+DOMAIN-SUFFIX,ani.gamer.com.tw
+DOMAIN,gamer-cds.cdn.hinet.net
+DOMAIN,gamer2-cds.cdn.hinet.net
+#LineTV
+USER-AGENT,LINE%20TV*
+DOMAIN-SUFFIX,linetv.tw
+DOMAIN,d3c7rimkq79yfu.cloudfront.net
+#KKTV
+USER-AGENT,KKTV*
+USER-AGENT,com.kktv.ios.kktv*
+DOMAIN-SUFFIX,kktv.com.tw
+DOMAIN-SUFFIX,kktv.me
+DOMAIN,kktv-theater.kk.stream
+# 神机 (HKMTMedia) 2020/2/13 https://github.com/ConnersHua/Profiles/blob/master/Surge/Ruleset/HKMTMedia.list
+# > 愛奇藝台灣站
+# DOMAIN,cache.video.iqiyi.com
+# > bilibili
+#DOMAIN,upos-hz-mirrorakam.akamaized.net
+#DOMAIN,api.bilibili.com
+#DOMAIN,api.vc.bilibili.com
+#DOMAIN,www.bilibili.com
