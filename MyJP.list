@@ -4,6 +4,7 @@ DOMAIN-KEYWORD,erogamescape
 DOMAIN-SUFFIX,doaxvv.com
 DOMAIN-SUFFIX,dmkt-sp.jp
 DOMAIN-SUFFIX,smt.docomo.ne.jp
+IP-CIDR,203.104.209.0/24,no-resolve
 # > Hulu.jp
 DOMAIN-SUFFIX,happyon.jp
 DOMAIN-SUFFIX,hulu.jp
