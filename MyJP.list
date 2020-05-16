@@ -5,6 +5,7 @@ DOMAIN-SUFFIX,doaxvv.com
 DOMAIN-SUFFIX,dmkt-sp.jp
 DOMAIN-SUFFIX,smt.docomo.ne.jp
 IP-CIDR,203.104.209.0/24,no-resolve
+IP-CIDR,202.6.244.0/22,no-resolve
 # > Hulu.jp
 DOMAIN-SUFFIX,happyon.jp
 DOMAIN-SUFFIX,hulu.jp
