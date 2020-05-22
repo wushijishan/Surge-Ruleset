@@ -394,3 +394,5 @@ DOMAIN,analytics.strava.com
 DOMAIN,download.jetbrains.com
 DOMAIN,images-cn.ssl-images-amazon.com
 DOMAIN,cdn.angruo.com
+# 定制
+DOMAIN-SUFFIX,microsoft.com
