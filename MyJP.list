@@ -4,7 +4,6 @@ DOMAIN-KEYWORD,erogamescape
 DOMAIN-SUFFIX,doaxvv.com
 DOMAIN-SUFFIX,dmkt-sp.jp
 DOMAIN-SUFFIX,smt.docomo.ne.jp
-DOMAIN,code.createjs.com
 IP-CIDR,203.104.209.0/24,no-resolve
 IP-CIDR,202.6.244.0/22,no-resolve
 IP-CIDR,157.112.80.0/20,no-resolve
