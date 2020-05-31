@@ -38,6 +38,10 @@ DOMAIN-SUFFIX,south-plus.net
 DOMAIN-SUFFIX,south-plus.org
 DOMAIN-SUFFIX,bing.com
 DOMAIN-SUFFIX,kcwiki.org
+# E-hentai
+DOMAIN-SUFFIX,e-hentai.org
+DOMAIN-SUFFIX,ehgt.org
+DOMAIN-SUFFIX,hath.network
 DOMAIN-SUFFIX,exhentai.org
 # > Xbox Download
 DOMAIN-SUFFIX,delivery.mp.microsoft.com
