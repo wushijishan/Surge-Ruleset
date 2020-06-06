@@ -1,5 +1,7 @@
 #Bahamut
 USER-AGENT,Anime*
+DOMAIN-SUFFIX,bahamut.com.tw
+DOMAIN-SUFFIX,gamer.com.tw
 DOMAIN-SUFFIX,ani.gamer.com.tw
 DOMAIN-SUFFIX,api.gamer.com.tw
 DOMAIN,gamer-cds.cdn.hinet.net
