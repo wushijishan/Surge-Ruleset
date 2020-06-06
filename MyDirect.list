@@ -50,6 +50,7 @@ DOMAIN-SUFFIX,cloudprofile.io
 DOMAIN,gravatar.rixcloud.dev
 DOMAIN-SUFFIX,statuspage.io
 DOMAIN-SUFFIX,ruleset.dev
+DOMAIN-SUFFIX,rixcloudkb.io
 # > Microsoft
 DOMAIN,aka.ms
 DOMAIN-SUFFIX,gamepass.com
