@@ -65,6 +65,7 @@ DOMAIN-SUFFIX,azureedge.net
 DOMAIN,activity.windows.com
 DOMAIN-SUFFIX,msftconnecttest.com
 DOMAIN,settings-win.data.microsoft.com
+DOMAIN-SUFFIX,msn.cn
 # https://raw.githubusercontent.com/NobyDa/Script/master/Surge/Download.list
 # Mac Download
 PROCESS-NAME,aria2c
