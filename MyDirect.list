@@ -9,6 +9,7 @@ DOMAIN-SUFFIX,gravatar.com
 DOMAIN-SUFFIX,adguard.com
 DOMAIN-SUFFIX,sonos.com
 DOMAIN-SUFFIX,sonoschina.com
+DOMAIN-SUFFIX,migu.cn
 DOMAIN,local.adguard.org
 IP-CIDR,223.5.5.5/32,no-resolve
 DOMAIN-SUFFIX,pool.ntp.org
