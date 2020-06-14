@@ -1,6 +1,7 @@
 # 2020/4/5 https://github.com/eHpo1/Rules/blob/master/Surge4/Ruleset/GlobalMedia.list
 # 定制:去掉bahamut
 # GlobalMedia.list
+DOMAIN-SUFFIX,theinitium.com
 # (Music)
 # > Deezer
 USER-AGENT,Deezer*
