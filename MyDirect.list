@@ -16,30 +16,21 @@ DOMAIN-SUFFIX,pool.ntp.org
 DOMAIN,speeddial2.com
 DOMAIN,speedial2.com
 DOMAIN-SUFFIX,postmarkapp.com
-DOMAIN-SUFFIX,wp.com
 DOMAIN-SUFFIX,cloudflare.com
 DOMAIN-SUFFIX,nssurge.com
 DOMAIN-SUFFIX,trafficmanager.net
 DOMAIN-SUFFIX,origin.com
 DOMAIN-SUFFIX,luoimg.com
-DOMAIN-SUFFIX,typekit.net
 DOMAIN-SUFFIX,navdmp.com
 DOMAIN-SUFFIX,bugsnag.com
-DOMAIN-SUFFIX,clearbit.com
-DOMAIN-SUFFIX,footprintdns.com
 DOMAIN-SUFFIX,sony.tv
 DOMAIN-SUFFIX,ndmdhs.com
-DOMAIN-SUFFIX,newrelic.com
-DOMAIN-SUFFIX,nr-data.net
-DOMAIN-SUFFIX,rockpapershotgun.com
 DOMAIN,steamcommunity-a.akamaihd.net
 DOMAIN-SUFFIX,asus.com
 DOMAIN-SUFFIX,playstation.com
 DOMAIN-SUFFIX,9moe.com
 DOMAIN-SUFFIX,south-plus.net
 DOMAIN-SUFFIX,south-plus.org
-DOMAIN-SUFFIX,bing.com
-DOMAIN-SUFFIX,kcwiki.org
 # > Xbox Download
 DOMAIN-SUFFIX,delivery.mp.microsoft.com
 DOMAIN,assets1.xboxlive.cn
@@ -53,22 +44,6 @@ DOMAIN,gravatar.rixcloud.dev
 DOMAIN-SUFFIX,statuspage.io
 DOMAIN-SUFFIX,ruleset.dev
 DOMAIN-SUFFIX,rixcloudkb.io
-# > Microsoft
-DOMAIN,aka.ms
-DOMAIN-SUFFIX,gamepass.com
-DOMAIN,store-images.s-microsoft.com
-DOMAIN,x1streamingplans.azureedge.net
-DOMAIN-SUFFIX,live.com
-DOMAIN-SUFFIX,live.net
-DOMAIN-SUFFIX,office365.com
-DOMAIN-SUFFIX,office.com
-DOMAIN-SUFFIX,xboxservices.com
-DOMAIN-SUFFIX,msedge.net
-DOMAIN-SUFFIX,azureedge.net
-DOMAIN,activity.windows.com
-DOMAIN-SUFFIX,msftconnecttest.com
-DOMAIN,settings-win.data.microsoft.com
-DOMAIN-SUFFIX,msn.cn
 # https://raw.githubusercontent.com/NobyDa/Script/master/Surge/Download.list
 # Mac Download
 PROCESS-NAME,aria2c
