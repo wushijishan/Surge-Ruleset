@@ -394,10 +394,35 @@ DOMAIN,analytics.strava.com
 DOMAIN,download.jetbrains.com
 DOMAIN,images-cn.ssl-images-amazon.com
 DOMAIN,cdn.angruo.com
-# 定制
+# 以下为定制
 DOMAIN-SUFFIX,microsoft.com
 DOMAIN-SUFFIX,gitv.tv
 DOMAIN-SUFFIX,zdmimg.com
 DOMAIN-SUFFIX,qiyukf.com
 DOMAIN-SUFFIX,bdimg.com
 DOMAIN-SUFFIX,bcebos.com
+DOMAIN-SUFFIX,wp.com
+DOMAIN-SUFFIX,typekit.net
+DOMAIN-SUFFIX,navdmp.com
+DOMAIN-SUFFIX,clearbit.com
+DOMAIN-SUFFIX,footprintdns.com
+DOMAIN-SUFFIX,newrelic.com
+DOMAIN-SUFFIX,nr-data.net
+DOMAIN-SUFFIX,rockpapershotgun.com
+# > Microsoft
+DOMAIN,aka.ms
+DOMAIN-SUFFIX,bing.com
+DOMAIN-SUFFIX,gamepass.com
+DOMAIN,store-images.s-microsoft.com
+DOMAIN,x1streamingplans.azureedge.net
+DOMAIN-SUFFIX,live.com
+DOMAIN-SUFFIX,live.net
+DOMAIN-SUFFIX,office365.com
+DOMAIN-SUFFIX,office.com
+DOMAIN-SUFFIX,xboxservices.com
+DOMAIN-SUFFIX,msedge.net
+DOMAIN-SUFFIX,azureedge.net
+DOMAIN,activity.windows.com
+DOMAIN-SUFFIX,msftconnecttest.com
+DOMAIN,settings-win.data.microsoft.com
+DOMAIN-SUFFIX,msn.cn
