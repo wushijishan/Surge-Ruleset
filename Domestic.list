@@ -396,3 +396,8 @@ DOMAIN,images-cn.ssl-images-amazon.com
 DOMAIN,cdn.angruo.com
 # 定制
 DOMAIN-SUFFIX,microsoft.com
+DOMAIN-SUFFIX,gitv.tv
+DOMAIN-SUFFIX,zdmimg.com
+DOMAIN-SUFFIX,qiyukf.com
+DOMAIN-SUFFIX,bdimg.com
+DOMAIN-SUFFIX,bcebos.com
