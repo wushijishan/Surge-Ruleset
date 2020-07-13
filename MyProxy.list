@@ -36,6 +36,7 @@ DOMAIN-SUFFIX,reimu.net
 DOMAIN-SUFFIX,steamdb.info
 DOMAIN,googleads.g.doubleclick.net
 DOMAIN,pubads.g.doubleclick.net
+DOMAIN,imasdk.googleapis.com
 DOMAIN-SUFFIX,creatjs.com
 # E-hentai
 DOMAIN-SUFFIX,e-hentai.org
