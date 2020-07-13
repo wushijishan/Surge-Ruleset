@@ -34,7 +34,8 @@ DOMAIN-SUFFIX,xuite.net
 DOMAIN-SUFFIX,appshopper.com
 DOMAIN-SUFFIX,reimu.net
 DOMAIN-SUFFIX,steamdb.info
-DOMAIN-SUFFIX,googleads.g.doubleclick.net
+DOMAIN,googleads.g.doubleclick.net
+DOMAIN,pubads.g.doubleclick.net
 DOMAIN-SUFFIX,creatjs.com
 # E-hentai
 DOMAIN-SUFFIX,e-hentai.org
