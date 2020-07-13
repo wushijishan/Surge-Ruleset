@@ -40,17 +40,6 @@ DOMAIN,googleads.g.doubleclick.net
 DOMAIN,pubads.g.doubleclick.net
 DOMAIN,imasdk.googleapis.com
 DOMAIN,pagead2.googlesyndication.com
-# Desktop and IOS
-DOMAIN,app-measurement.com
-DOMAIN,mtalk.google.com
-DOMAIN,www.googletagmanager.com
-DOMAIN,www.google-analytics.com
-DOMAIN,play.googleapis.com
-DOMAIN,data.flurry.com
-DOMAIN,adservice.google.com
-DOMAIN,adservice.google.com.tw
-DOMAIN,s0.2mdn.net
-DOMAIN,firebase-settings.crashlytics.com
 # E-hentai
 DOMAIN-SUFFIX,e-hentai.org
 DOMAIN-SUFFIX,ehgt.org
