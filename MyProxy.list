@@ -47,6 +47,8 @@ DOMAIN,www.googletagmanager.com
 DOMAIN,www.google-analytics.com
 DOMAIN,play.googleapis.com
 DOMAIN,data.flurry.com
+DOMAIN,adservice.google.com
+DOMAIN,s0.2mdn.net
 # E-hentai
 DOMAIN-SUFFIX,e-hentai.org
 DOMAIN-SUFFIX,ehgt.org
