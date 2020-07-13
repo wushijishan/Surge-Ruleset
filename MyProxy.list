@@ -40,6 +40,10 @@ DOMAIN,googleads.g.doubleclick.net
 DOMAIN,pubads.g.doubleclick.net
 DOMAIN,imasdk.googleapis.com
 DOMAIN,pagead2.googlesyndication.com
+# desktop
+DOMAIN,adservice.google.com
+DOMAIN,adservice.google.com.tw
+DOMAIN,securepubads.g.doubleclick.net
 # E-hentai
 DOMAIN-SUFFIX,e-hentai.org
 DOMAIN-SUFFIX,ehgt.org
