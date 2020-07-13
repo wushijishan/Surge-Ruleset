@@ -38,6 +38,7 @@ DOMAIN,googleads.g.doubleclick.net
 DOMAIN,pubads.g.doubleclick.net
 DOMAIN,imasdk.googleapis.com
 DOMAIN,pagead2.googlesyndication.com
+DOMAIN,app-measurement.com
 DOMAIN-SUFFIX,creatjs.com
 # E-hentai
 DOMAIN-SUFFIX,e-hentai.org
