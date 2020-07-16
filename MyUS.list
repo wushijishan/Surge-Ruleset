@@ -1,5 +1,11 @@
 DOMAIN-KEYWORD,crunchyroll
 DOMAIN-KEYWORD,vrv
+# Apple News
+DOMAIN-SUFFIX,apple.news
+DOMAIN,apple.comscoreresearch.com
+DOMAIN,news-client.apple.com
+DOMAIN,news-events.apple.com
+DOMAIN,news-edge.apple.com
 # > Hulu
 DOMAIN-SUFFIX,hulu.com
 DOMAIN-SUFFIX,huluim.com
