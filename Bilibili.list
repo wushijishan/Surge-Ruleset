@@ -1,3 +1,4 @@
 # > bilibili
 DOMAIN,upos-hz-mirrorakam.akamaized.net
 DOMAIN-SUFFIX,bilibili.com
+DOMAIN,grpc.biliapi.net
