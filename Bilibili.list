@@ -1,8 +1,3 @@
 # > bilibili
 DOMAIN,upos-hz-mirrorakam.akamaized.net
-DOMAIN-SUFFIX,data.bilibili.com
-DOMAIN,api.bilibili.com
-DOMAIN,api.vc.bilibili.com
-DOMAIN,www.bilibili.com
-DOMAIN,app.bilibili.com
-DOMAIN,grpc.biliapi.net
+DOMAIN-SUFFIX,bilibili.com
