@@ -20,8 +20,3 @@ DOMAIN,kktv-theater.kk.stream
 # 神机 (HKMTMedia) 2020/2/13 https://github.com/ConnersHua/Profiles/blob/master/Surge/Ruleset/HKMTMedia.list
 # > 愛奇藝台灣站
 # DOMAIN,cache.video.iqiyi.com
-# > bilibili
-#DOMAIN,upos-hz-mirrorakam.akamaized.net
-#DOMAIN,api.bilibili.com
-#DOMAIN,api.vc.bilibili.com
-#DOMAIN,www.bilibili.com
