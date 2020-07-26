@@ -16,7 +16,6 @@ DOMAIN-SUFFIX,pool.ntp.org
 DOMAIN,speeddial2.com
 DOMAIN,speedial2.com
 DOMAIN-SUFFIX,postmarkapp.com
-DOMAIN-SUFFIX,cloudflare.com
 DOMAIN-SUFFIX,nssurge.com
 DOMAIN-SUFFIX,trafficmanager.net
 DOMAIN-SUFFIX,origin.com
