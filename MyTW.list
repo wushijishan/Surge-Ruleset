@@ -18,21 +18,6 @@ DOMAIN-SUFFIX,kktv.com.tw
 DOMAIN-SUFFIX,kktv.me
 DOMAIN,kktv-theater.kk.stream
 DOMAIN-SUFFIX,friday.tw
-# HBO GO HKG
-USER-AGENT,HBO%20GO%20PROD%20HKG*
-DOMAIN-SUFFIX,hbogoasia.com
-DOMAIN-SUFFIX,hbogoasia.id
-DOMAIN,bcbolthboa-a.akamaihd.net
-DOMAIN,players.brightcove.net
-DOMAIN,s3-ap-southeast-1.amazonaws.com
-DOMAIN,dai3fd1oh325y.cloudfront.net
-DOMAIN,44wilhpljf.execute-api.ap-southeast-1.amazonaws.com
-DOMAIN,hboasia1-i.akamaihd.net
-DOMAIN,hboasia2-i.akamaihd.net
-DOMAIN,hboasia3-i.akamaihd.net
-DOMAIN,hboasia4-i.akamaihd.net
-DOMAIN,hboasia5-i.akamaihd.net
-DOMAIN,cf-images.ap-southeast-1.prod.boltdns.net
 # 神机 (HKMTMedia) 2020/2/13 https://github.com/ConnersHua/Profiles/blob/master/Surge/Ruleset/HKMTMedia.list
 # > 愛奇藝台灣站
 # DOMAIN,cache.video.iqiyi.com
