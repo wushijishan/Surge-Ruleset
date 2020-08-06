@@ -1,0 +1,5 @@
+#!name=adguard home dns
+#!desc=adguard home dns
+
+[General]
+dns-server = 
