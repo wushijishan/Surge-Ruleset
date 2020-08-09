@@ -10,3 +10,5 @@ allow-wifi-access = true
 wifi-access-http-port = 6152
 # > SOCKS5 代理服务端口（默认为"6153"）
 # wifi-access-socks5-port = 6153
+[Host]
+store.steampowered.com = server:119.29.29.29
