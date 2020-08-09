@@ -1,5 +1,5 @@
-#!name=adguard home dns
-#!desc=adguard home dns
+#!name=iPad
+#!desc=iPad
 
 [General]
 dns-server = system
