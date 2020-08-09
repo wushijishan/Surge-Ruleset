@@ -3,13 +3,6 @@
 
 [General]
 dns-server = system
-# Wi-Fi 访问
-# > 允许 Wi-Fi 访问（默认不启用）
-allow-wifi-access = true
-# > HTTP 代理服务端口（默认为"6152"）
-wifi-access-http-port = 6152
-# > SOCKS5 代理服务端口（默认为"6153"）
-# wifi-access-socks5-port = 6153
 [Host]
 store.steampowered.com = server:119.29.29.29
 [Rule]
