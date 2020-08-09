@@ -2,4 +2,4 @@
 #!desc=adguard home dns
 
 [General]
-dns-server = 192.168.1.62
+dns-server = 218.85.157.99, 218.85.152.99
