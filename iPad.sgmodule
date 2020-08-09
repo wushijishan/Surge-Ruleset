@@ -12,3 +12,5 @@ wifi-access-http-port = 6152
 # wifi-access-socks5-port = 6153
 [Host]
 store.steampowered.com = server:119.29.29.29
+[Rule]
+IP-CIDR,192.168.8.0/24,DIRECT
