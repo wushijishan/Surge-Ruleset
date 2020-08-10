@@ -2,7 +2,7 @@
 #!desc=iPad
 
 [General]
-dns-server = system
+dns-server = 114.114.114.114
 [Host]
 store.steampowered.com = server:119.29.29.29
 [Rule]
