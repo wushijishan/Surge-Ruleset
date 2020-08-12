@@ -43,3 +43,6 @@ DOMAIN,gravatar.rixcloud.dev
 DOMAIN-SUFFIX,statuspage.io
 DOMAIN-SUFFIX,ruleset.dev
 DOMAIN-SUFFIX,rixcloudkb.io
+# > Sonos Apple Music
+DOMAIN,sonos-music.apple.com
+DOMAIN,streamingaudio.itunes.apple.com
