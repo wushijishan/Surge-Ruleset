@@ -219,4 +219,3 @@ DOMAIN-SUFFIX,youtube.com
 DOMAIN,youtubei.googleapis.com
 # > 订制
 DOMAIN-SUFFIX,cloudfront.net
-DOMAIN,aod-ssl.itunes.apple.com
