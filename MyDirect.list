@@ -46,3 +46,4 @@ DOMAIN-SUFFIX,rixcloudkb.io
 # > Sonos Apple Music
 DOMAIN,sonos-music.apple.com
 DOMAIN,streamingaudio.itunes.apple.com
+DOMAIN,aod-ssl.itunes.apple.com
