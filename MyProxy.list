@@ -37,9 +37,8 @@ DOMAIN-SUFFIX,steamdb.info
 DOMAIN-SUFFIX,creatjs.com
 DOMAIN-SUFFIX,anime-sharing.com
 DOMAIN-SUFFIX,anime-sharing.info
-DOMAIN,www.google-analytics.com
-DOMAIN,www.googletagmanager.com
-DOMAIN,stats.g.doubleclick.net
+DOMAIN,counter2.blog.livedoor.com
+DOMAIN,spad.i-mobile.co.jp
 # E-hentai
 DOMAIN-SUFFIX,e-hentai.org
 DOMAIN-SUFFIX,ehgt.org
