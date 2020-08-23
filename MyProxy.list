@@ -37,6 +37,8 @@ DOMAIN-SUFFIX,creatjs.com
 DOMAIN-SUFFIX,anime-sharing.com
 DOMAIN-SUFFIX,anime-sharing.info
 DOMAIN,www.google-analytics.com
+DOMAIN,www.googletagmanager.com
+DOMAIN,counter2.blog.livedoor.com
 # E-hentai
 DOMAIN-SUFFIX,e-hentai.org
 DOMAIN-SUFFIX,ehgt.org
