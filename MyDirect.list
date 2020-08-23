@@ -11,6 +11,7 @@ DOMAIN-SUFFIX,sonos.com
 DOMAIN-SUFFIX,sonoschina.com
 DOMAIN-SUFFIX,migu.cn
 DOMAIN,local.adguard.org
+DOMAIN,dns-family.adguard.com
 IP-CIDR,223.5.5.5/32,no-resolve
 DOMAIN-SUFFIX,pool.ntp.org
 DOMAIN,speeddial2.com
