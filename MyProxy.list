@@ -1,5 +1,6 @@
 DOMAIN-SUFFIX,sankakucomplex.com
 DOMAIN-KEYWORD,akibablog
+DOMAIN,resize.blogsys.jp
 DOMAIN-SUFFIX,inoreader.com
 DOMAIN-SUFFIX,playstation.net
 DOMAIN-SUFFIX,age-soft.com
@@ -39,6 +40,8 @@ DOMAIN-SUFFIX,anime-sharing.info
 DOMAIN,www.google-analytics.com
 DOMAIN,www.googletagmanager.com
 DOMAIN,counter2.blog.livedoor.com
+DOMAIN,spad.i-mobile.co.jp
+DOMAIN,stats.g.doubleclick.net
 # E-hentai
 DOMAIN-SUFFIX,e-hentai.org
 DOMAIN-SUFFIX,ehgt.org
