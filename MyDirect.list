@@ -32,6 +32,7 @@ DOMAIN,activity.windows.com
 DOMAIN,settings-win.data.microsoft.com
 DOMAIN,www.googletagmanager.com
 DOMAIN,counter2.blog.livedoor.com
+DOMAIN,www.google-analytics.com
 # > Xbox Download
 DOMAIN-SUFFIX,delivery.mp.microsoft.com
 DOMAIN,assets1.xboxlive.cn
