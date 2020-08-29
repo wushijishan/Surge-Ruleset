@@ -20,7 +20,7 @@ DOMAIN-SUFFIX,nintendo.net
 DOMAIN-SUFFIX,nintendo.com
 DOMAIN,statuse.digitalcertvalidation.com
 DOMAIN-SUFFIX,rapidssl.com
-DOMAIN-KEYWORD,ocsp
+#DOMAIN-KEYWORD,ocsp
 DOMAIN-SUFFIX,wikimedia.org
 DOMAIN-SUFFIX,limetorrents.info
 DOMAIN,sukebei.nyaa.si
