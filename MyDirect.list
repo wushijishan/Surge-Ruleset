@@ -4,7 +4,7 @@ DOMAIN,steamuserimages-a.akamaihd.net
 DOMAIN,steamcdn-a.akamaihd.net
 DOMAIN,router.asus.com
 DOMAIN,wushijishan.asuscomm.com
-DOMAIN,device-messaging-na.amazon.com
+#DOMAIN,device-messaging-na.amazon.com
 DOMAIN-SUFFIX,adtidy.org
 DOMAIN,www.yngdieng.org
 DOMAIN-SUFFIX,gravatar.com
@@ -13,7 +13,6 @@ DOMAIN-SUFFIX,sonoschina.com
 DOMAIN-SUFFIX,migu.cn
 DOMAIN,local.adguard.org
 DOMAIN,dns-family.adguard.com
-IP-CIDR,223.5.5.5/32,no-resolve
 DOMAIN-SUFFIX,pool.ntp.org
 DOMAIN,speeddial2.com
 DOMAIN,speedial2.com
@@ -21,7 +20,7 @@ DOMAIN-SUFFIX,postmarkapp.com
 DOMAIN-SUFFIX,trafficmanager.net
 DOMAIN-SUFFIX,origin.com
 DOMAIN-SUFFIX,luoimg.com
-DOMAIN-SUFFIX,navdmp.com
+#DOMAIN-SUFFIX,navdmp.com
 DOMAIN-SUFFIX,bugsnag.com
 DOMAIN-SUFFIX,sony.tv
 DOMAIN-SUFFIX,ndmdhs.com
@@ -29,22 +28,22 @@ DOMAIN,steamcommunity-a.akamaihd.net
 DOMAIN-SUFFIX,playstation.com
 DOMAIN-SUFFIX,fygal.com
 DOMAIN-SUFFIX,white-plus.net
-DOMAIN,activity.windows.com
-DOMAIN,settings-win.data.microsoft.com
+#DOMAIN,activity.windows.com
+#DOMAIN,settings-win.data.microsoft.com
 DOMAIN,in.appcenter.ms
 # > Xbox Download
 DOMAIN-SUFFIX,delivery.mp.microsoft.com
 DOMAIN,assets1.xboxlive.cn
 DOMAIN,assets2.xboxlive.cn
 # > Rixcloud
-DOMAIN-SUFFIX,rixcloud.io
+DOMAIN-SUFFIX,tempestkb.io
 DOMAIN,doh.rixcloud.dev
-DOMAIN-SUFFIX,xeton.io
+DOMAIN-SUFFIX,rixcloud.io
 DOMAIN-SUFFIX,cloudprofile.io
 DOMAIN,gravatar.rixcloud.dev
-DOMAIN-SUFFIX,statuspage.io
 DOMAIN-SUFFIX,ruleset.dev
-DOMAIN-SUFFIX,rixcloudkb.io
+DOMAIN-SUFFIX,tempestkb.io
+DOMAIN,status.mcnocean.com
 # > Sonos Apple Music
 DOMAIN,sonos-music.apple.com
 DOMAIN,streamingaudio.itunes.apple.com
