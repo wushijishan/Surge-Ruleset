@@ -4,9 +4,7 @@ DOMAIN,steamuserimages-a.akamaihd.net
 DOMAIN,steamcdn-a.akamaihd.net
 DOMAIN,router.asus.com
 DOMAIN,wushijishan.asuscomm.com
-#DOMAIN,device-messaging-na.amazon.com
 DOMAIN-SUFFIX,adtidy.org
-DOMAIN,www.yngdieng.org
 DOMAIN-SUFFIX,gravatar.com
 DOMAIN-SUFFIX,sonos.com
 DOMAIN-SUFFIX,sonoschina.com
@@ -27,8 +25,6 @@ DOMAIN-SUFFIX,ndmdhs.com
 DOMAIN,steamcommunity-a.akamaihd.net
 DOMAIN-SUFFIX,playstation.com
 DOMAIN-SUFFIX,fygal.com
-#DOMAIN,activity.windows.com
-#DOMAIN,settings-win.data.microsoft.com
 DOMAIN,in.appcenter.ms
 # > Xbox Download
 DOMAIN-SUFFIX,delivery.mp.microsoft.com
