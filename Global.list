@@ -1,4 +1,4 @@
-# Global.list 2020/8/29 https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Global.list
+# Global.list 2020/9/2 https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Global.list
 # (DNS Cache Pollution)
 # > Apple
 DOMAIN,testflight.apple.com
