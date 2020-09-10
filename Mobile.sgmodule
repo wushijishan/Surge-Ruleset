@@ -1,0 +1,5 @@
+#!name=mobile
+#!desc=mobile
+
+[General]
+dns-server = 218.85.157.99, system
