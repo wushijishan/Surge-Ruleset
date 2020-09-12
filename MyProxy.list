@@ -44,6 +44,7 @@ DOMAIN-SUFFIX,anime-sharing.info
 DOMAIN-SUFFIX,goldenhillsoftware.com
 DOMAIN-SUFFIX,dictionarystore.com
 DOMAIN,aod-ssl.itunes.apple.com
+DOMAIN-SUFFIX,cloudflare.com
 # Amazon
 DOMAIN,api.amazonalexa.com
 DOMAIN,api.fe.amazonalexa.com
