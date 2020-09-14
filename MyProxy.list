@@ -45,6 +45,7 @@ DOMAIN-SUFFIX,goldenhillsoftware.com
 DOMAIN-SUFFIX,dictionarystore.com
 DOMAIN,aod-ssl.itunes.apple.com
 DOMAIN-SUFFIX,cloudflare.com
+DOMAIN-SUFFIX,plus.xeton.dev
 # Amazon
 DOMAIN,api.amazonalexa.com
 DOMAIN,api.fe.amazonalexa.com
