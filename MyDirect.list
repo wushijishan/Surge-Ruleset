@@ -39,7 +39,7 @@ DOMAIN-SUFFIX,cloudprofile.io
 DOMAIN,gravatar.rixcloud.dev
 DOMAIN-SUFFIX,ruleset.dev
 DOMAIN-SUFFIX,tempestkb.io
-DOMAIN-SUFFIX,tempestapp.io
+#DOMAIN-SUFFIX,tempestapp.io
 DOMAIN-SUFFIX,statuspage.io
 DOMAIN,status.mcnocean.com
 # > Sonos Apple Music
