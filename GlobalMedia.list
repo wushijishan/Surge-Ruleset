@@ -266,3 +266,4 @@ DOMAIN,youtubei.googleapis.com
 # > 订制
 DOMAIN-SUFFIX,cloudfront.net
 DOMAIN-SUFFIX,theinitium.com
+DOMAIN,aod-ssl.itunes.apple.com
