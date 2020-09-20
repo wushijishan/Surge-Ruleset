@@ -1,5 +1,6 @@
 DOMAIN-KEYWORD,crunchyroll
 DOMAIN-KEYWORD,vrv
+DOMAIN-SUFFIX,gamestop.com
 # Apple News
 DOMAIN,gspe1-ssl.ls.apple.com // 必要，但会导致「地图」使用「TOMTOM」版本数据
 PROCESS-NAME,News
