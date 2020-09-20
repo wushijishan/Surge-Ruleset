@@ -1,3 +1,4 @@
+#https://github.com/Loyalsoldier/surge-rules 2020/9/20
 1.0.1.0/24
 1.0.2.0/23
 1.0.8.0/21
