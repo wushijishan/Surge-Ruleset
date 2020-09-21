@@ -27,6 +27,7 @@ DOMAIN,steamcommunity-a.akamaihd.net
 DOMAIN-SUFFIX,playstation.com
 DOMAIN-SUFFIX,fygal.com
 DOMAIN,in.appcenter.ms
+DOMAIN,emby-best.xeton.dev
 # > Xbox Download
 DOMAIN-SUFFIX,delivery.mp.microsoft.com
 DOMAIN,assets1.xboxlive.cn
