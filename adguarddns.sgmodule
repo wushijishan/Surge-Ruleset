@@ -2,10 +2,10 @@
 #!desc=adguard home dns
 
 [General]
-dns-server = 218.85.157.99, 218.85.152.99, 119.29.29.29
+dns-server = 218.85.157.99, 218.85.152.99
 [Host]
 *.xboxlive.cn = server:218.85.157.99
 *.sonos.com = server:218.85.157.99
-*.prod.do.dsp.mp.microsoft.com = server:149.129.113.81
+*.prod.do.dsp.mp.microsoft.com = server:218.85.157.99
 mtalk.google.com = 108.177.125.188
 *.delivery.mp.microsoft.com = server:218.85.157.99
