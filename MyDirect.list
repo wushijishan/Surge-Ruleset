@@ -28,8 +28,10 @@ DOMAIN-SUFFIX,playstation.com
 DOMAIN-SUFFIX,fygal.com
 DOMAIN,in.appcenter.ms
 DOMAIN,emby-best.xeton.dev
-DOMAIN,pubads.g.doubleclick.net
 DOMAIN,maxcdn.bootstrapcdn.com
+# > Bahamut ADs
+DOMAIN-SUFFIX,tenmax.io
+DOMAIN,pubads.g.doubleclick.net
 # > Xbox Download
 DOMAIN-SUFFIX,delivery.mp.microsoft.com
 DOMAIN,assets1.xboxlive.cn
