@@ -1,6 +1,6 @@
 DOMAIN-KEYWORD,akibablog
 DOMAIN,resize.blogsys.jp
-DOMAIN,livedoor.blogimg.jp
+DOMAIN-SUFFIX,blogimg.jp
 DOMAIN,spad.i-mobile.co.jp
 DOMAIN-SUFFIX,inoreader.com
 DOMAIN-SUFFIX,playstation.net
@@ -41,6 +41,7 @@ DOMAIN-SUFFIX,anime-sharing.com
 DOMAIN-SUFFIX,anime-sharing.info
 DOMAIN-SUFFIX,goldenhillsoftware.com
 DOMAIN-SUFFIX,dictionarystore.com
+DOMAIN-SUFFIX,asahi.com
 DOMAIN-SUFFIX,cloudflare.com
 DOMAIN-SUFFIX,tempestapp.io
 # Amazon
