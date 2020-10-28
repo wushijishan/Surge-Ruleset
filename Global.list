@@ -548,14 +548,5 @@ DOMAIN-SUFFIX,zaobao.com.sg
 DOMAIN-SUFFIX,bahamut.com.tw
 DOMAIN-SUFFIX,gamer.com.tw
 DOMAIN-SUFFIX,fc2.com
-DOMAIN-SUFFIX,livedoor.com
 DOMAIN-SUFFIX,amazon.com
-DOMAIN-SUFFIX,cloudfront.net
-DOMAIN-SUFFIX,theinitium.com
 DOMAIN-SUFFIX,xeton.dev
-DOMAIN,image.bookwalker.com.tw
-# E-hentai
-DOMAIN-SUFFIX,e-hentai.org
-DOMAIN-SUFFIX,ehgt.org
-DOMAIN-SUFFIX,exhentai.org
-DOMAIN-SUFFIX,hath.network
