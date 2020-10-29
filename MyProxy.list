@@ -1,12 +1,8 @@
-DOMAIN,image.bookwalker.com.tw
 DOMAIN-SUFFIX,inoreader.com
 DOMAIN-SUFFIX,playstation.net
 DOMAIN-SUFFIX,age-soft.com
 DOMAIN-KEYWORD,toranoana
 DOMAIN-SUFFIX,aniplexplus.com
-DOMAIN-SUFFIX,dlsite.jp
-DOMAIN-SUFFIX,dlsite.com
-DOMAIN-SUFFIX,tomatama.com
 DOMAIN-SUFFIX,4gamer.net
 DOMAIN-SUFFIX,animeanime.jp
 DOMAIN-SUFFIX,xbox-now.com
@@ -17,7 +13,6 @@ DOMAIN-SUFFIX,nintendo.com
 DOMAIN,statuse.digitalcertvalidation.com
 DOMAIN-SUFFIX,rapidssl.com
 DOMAIN-KEYWORD,ocsp
-DOMAIN-SUFFIX,wikimedia.org
 DOMAIN-SUFFIX,limetorrents.info
 DOMAIN,sukebei.nyaa.si
 DOMAIN-SUFFIX,skype.com
