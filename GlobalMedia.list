@@ -266,9 +266,11 @@ DOMAIN-SUFFIX,youtube.com
 DOMAIN,youtubei.googleapis.com
 # > 订制
 DOMAIN,aod-ssl.itunes.apple.com
-DOMAIN-SUFFIX,hl02.gayufan.xyz
+DOMAIN-SUFFIX,gayufan.xyz
 DOMAIN-SUFFIX,cloudfront.net
 DOMAIN-SUFFIX,theinitium.com
+DOMAIN-SUFFIX,xuite.net
+DOMAIN-SUFFIX,toptoon.net
 # E-hentai
 DOMAIN-SUFFIX,e-hentai.org
 DOMAIN-SUFFIX,ehgt.org
