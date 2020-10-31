@@ -35,3 +35,9 @@ DOMAIN-KEYWORD,yunpan
 DOMAIN-KEYWORD,Thunder
 DOMAIN-KEYWORD,XLLiveUD
 URL-REGEX,(torrent|announce.php\?passkey=|tracker|BitTorrent|bt_key|ed2k|find_node|get_peers|info_hash|magnet:|peer_id=)
+# > Hulu.jp
+DOMAIN-SUFFIX,happyon.jp
+DOMAIN-SUFFIX,hulu.jp
+DOMAIN-SUFFIX,streaks.jp
+DOMAIN-SUFFIX,happyon-cdn.jp
+DOMAIN-SUFFIX,prod.hjholdings.tv
