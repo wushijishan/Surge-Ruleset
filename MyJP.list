@@ -4,24 +4,12 @@ DOMAIN-SUFFIX,file.chobit.cc
 DOMAIN-SUFFIX,trial.dlsite.com
 DOMAIN-SUFFIX,play.dl.dlsite.com
 DOMAIN-SUFFIX,download.dlsite.com
-DOMAIN-KEYWORD,dmm
-DOMAIN-KEYWORD,mora
-DOMAIN-KEYWORD,erogamescape
 DOMAIN-SUFFIX,doaxvv.com
 DOMAIN-SUFFIX,dmkt-sp.jp
 DOMAIN-SUFFIX,smt.docomo.ne.jp
 IP-CIDR,203.104.209.0/24,no-resolve
 IP-CIDR,202.6.244.0/22,no-resolve
 IP-CIDR,157.112.80.0/20,no-resolve
-DOMAIN-KEYWORD,akibablog
-DOMAIN,resize.blogsys.jp
-DOMAIN-SUFFIX,blogimg.jp
-DOMAIN,spad.i-mobile.co.jp
-DOMAIN-SUFFIX,livedoor.jp
-DOMAIN-SUFFIX,livedoor.com
-DOMAIN-SUFFIX,blog.jp
-DOMAIN-SUFFIX,dlsite.jp
-DOMAIN-SUFFIX,dlsite.com
 # > AbemaTV 2020/2/13 https://github.com/ConnersHua/Profiles/blob/master/Surge/Ruleset/Media/AbemaTV.list
 USER-AGENT,AbemaTV*
 DOMAIN-SUFFIX,abema.io
