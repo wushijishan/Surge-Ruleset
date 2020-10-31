@@ -1,27 +1,6 @@
-DOMAIN-SUFFIX,inoreader.com
-DOMAIN-SUFFIX,playstation.net
-DOMAIN-SUFFIX,xbox-now.com
-DOMAIN-SUFFIX,rtings.com
-DOMAIN-SUFFIX,nintendo.co.jp
-DOMAIN-SUFFIX,nintendo.net
-DOMAIN-SUFFIX,nintendo.com
 DOMAIN,statuse.digitalcertvalidation.com
 DOMAIN-SUFFIX,rapidssl.com
 DOMAIN-KEYWORD,ocsp
-DOMAIN-SUFFIX,limetorrents.info
-DOMAIN,sukebei.nyaa.si
-DOMAIN-SUFFIX,skype.com
-DOMAIN-SUFFIX,redditstatic.com
-DOMAIN-SUFFIX,stripe.com
-DOMAIN-SUFFIX,stripe.network
-DOMAIN-SUFFIX,playno1.com
-DOMAIN-SUFFIX,appshopper.com
-DOMAIN-SUFFIX,reimu.net
-DOMAIN-KEYWORD,white-plus
-DOMAIN-KEYWORD,south-plus
-DOMAIN-SUFFIX,steamdb.info
-DOMAIN-SUFFIX,creatjs.com
-DOMAIN-SUFFIX,cloudflare.com
 DOMAIN-SUFFIX,tempestapp.io
 # Amazon
 DOMAIN,api.amazonalexa.com
