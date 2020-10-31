@@ -1,3 +1,9 @@
+DOMAIN-SUFFIX,cf-priv.mora.jp
+DOMAIN-SUFFIX,cc3001.dmm.co.jp
+DOMAIN-SUFFIX,file.chobit.cc
+DOMAIN-SUFFIX,trial.dlsite.com
+DOMAIN-SUFFIX,play.dl.dlsite.com
+DOMAIN-SUFFIX,download.dlsite.com
 DOMAIN-KEYWORD,dmm
 DOMAIN-KEYWORD,mora
 DOMAIN-KEYWORD,erogamescape
@@ -16,12 +22,6 @@ DOMAIN-SUFFIX,livedoor.com
 DOMAIN-SUFFIX,blog.jp
 DOMAIN-SUFFIX,dlsite.jp
 DOMAIN-SUFFIX,dlsite.com
-# > Hulu.jp
-DOMAIN-SUFFIX,happyon.jp
-DOMAIN-SUFFIX,hulu.jp
-DOMAIN-SUFFIX,streaks.jp
-DOMAIN-SUFFIX,happyon-cdn.jp
-DOMAIN-SUFFIX,prod.hjholdings.tv
 # > AbemaTV 2020/2/13 https://github.com/ConnersHua/Profiles/blob/master/Surge/Ruleset/Media/AbemaTV.list
 USER-AGENT,AbemaTV*
 DOMAIN-SUFFIX,abema.io
