@@ -7,7 +7,6 @@ DOMAIN,wushijishan.asuscomm.com
 DOMAIN-SUFFIX,adtidy.org
 DOMAIN-SUFFIX,saraba1st.com
 DOMAIN-SUFFIX,gravatar.com
-DOMAIN-SUFFIX,sonos.com
 DOMAIN-SUFFIX,sonoschina.com
 DOMAIN-SUFFIX,migu.cn
 DOMAIN,local.adguard.org
@@ -24,7 +23,6 @@ DOMAIN-SUFFIX,bugsnag.com
 DOMAIN-SUFFIX,sony.tv
 DOMAIN-SUFFIX,ndmdhs.com
 DOMAIN,steamcommunity-a.akamaihd.net
-DOMAIN-SUFFIX,playstation.com
 DOMAIN,in.appcenter.ms
 DOMAIN,emby-best.xeton.dev
 DOMAIN,maxcdn.bootstrapcdn.com
