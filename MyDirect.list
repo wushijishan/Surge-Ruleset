@@ -26,6 +26,7 @@ DOMAIN,steamcommunity-a.akamaihd.net
 DOMAIN,in.appcenter.ms
 DOMAIN,emby-best.xeton.dev
 DOMAIN,maxcdn.bootstrapcdn.com
+DOMAIN-SUFFIX,fe.apple-dns.net
 # > Bahamut ADs
 DOMAIN-SUFFIX,tenmax.io
 DOMAIN,pubads.g.doubleclick.net
