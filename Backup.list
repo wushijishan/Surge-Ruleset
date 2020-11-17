@@ -53,3 +53,7 @@ DOMAIN,news-client.apple.com
 DOMAIN,news-edge.apple.com
 DOMAIN,news-events.apple.com
 DOMAIN,apple.comscoreresearch.com
+# > Xbox Download
+#DOMAIN-SUFFIX,delivery.mp.microsoft.com
+#DOMAIN,assets1.xboxlive.cn
+#DOMAIN,assets2.xboxlive.cn
