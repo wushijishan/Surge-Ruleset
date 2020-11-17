@@ -30,10 +30,6 @@ DOMAIN-SUFFIX,fe.apple-dns.net
 # > Bahamut ADs
 DOMAIN-SUFFIX,tenmax.io
 DOMAIN,pubads.g.doubleclick.net
-# > Xbox Download
-#DOMAIN-SUFFIX,delivery.mp.microsoft.com
-#DOMAIN,assets1.xboxlive.cn
-#DOMAIN,assets2.xboxlive.cn
 # > Rixcloud
 DOMAIN-SUFFIX,tempestkb.io
 DOMAIN,doh.rixcloud.dev
