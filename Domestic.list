@@ -362,7 +362,6 @@ DOMAIN,images-cn.ssl-images-amazon.com
 IP-CIDR,119.28.28.28/32,no-resolve
 IP-CIDR,182.254.116.0/24,no-resolve
 # 以下为定制
-DOMAIN-SUFFIX,microsoft.com
 DOMAIN-SUFFIX,gitv.tv
 DOMAIN-SUFFIX,zdmimg.com
 DOMAIN-SUFFIX,qiyukf.com
@@ -386,7 +385,6 @@ DOMAIN-SUFFIX,live.com
 DOMAIN-SUFFIX,live.net
 DOMAIN-SUFFIX,office365.com
 DOMAIN-SUFFIX,office.com
-DOMAIN-SUFFIX,xboxservices.com
 DOMAIN-SUFFIX,msedge.net
 DOMAIN-SUFFIX,azureedge.net
 DOMAIN,activity.windows.com
