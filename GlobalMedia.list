@@ -267,7 +267,9 @@ USER-AGENT,com.google.ios.youtube*
 USER-AGENT,YouTube*
 DOMAIN-SUFFIX,googlevideo.com
 DOMAIN-SUFFIX,youtube.com
+DOMAIN-SUFFIX,ytimg.com
 DOMAIN,youtubei.googleapis.com
+DOMAIN,yt3.ggpht.com
 # > 订制
 DOMAIN,aod-ssl.itunes.apple.com
 DOMAIN-SUFFIX,gayufan.xyz
