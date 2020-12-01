@@ -1,4 +1,4 @@
-# 2020/11/2 https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/StreamingMedia/Streaming.list
+# 2020/12/1 https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/StreamingMedia/Streaming.list
 # GlobalMedia.list
 # (Podcast)
 # > Himalaya
@@ -241,7 +241,6 @@ DOMAIN,hamifans.emome.net
 USER-AGENT,TikTok*
 DOMAIN-SUFFIX,byteoversea.com
 DOMAIN-SUFFIX,ibytedtos.com
-DOMAIN-SUFFIX,ipstatp.com
 DOMAIN-SUFFIX,muscdn.com
 DOMAIN-SUFFIX,musical.ly
 DOMAIN-SUFFIX,tiktok.com
