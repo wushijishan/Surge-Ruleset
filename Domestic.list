@@ -1,4 +1,4 @@
-# 2020/10/18 https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/China.list
+# 2020/12/1 https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/China.list
 # Domestic.list
 # China Area Network
 # > 360
@@ -249,7 +249,6 @@ DOMAIN-SUFFIX,amd.com
 DOMAIN-SUFFIX,b612.net
 DOMAIN-SUFFIX,bdatu.com
 DOMAIN-SUFFIX,beitaichufang.com
-DOMAIN-SUFFIX,bjango.com
 DOMAIN-SUFFIX,booking.com
 DOMAIN-SUFFIX,bstatic.com
 DOMAIN-SUFFIX,cailianpress.com
