@@ -26,9 +26,6 @@ DOMAIN,ds-linear-abematv.akamaized.net
 DOMAIN,ds-vod-abematv.akamaized.net
 DOMAIN,linear-abematv.akamaized.net
 # AnycastJP
-DOMAIN-SUFFIX,goldenhillsoftware.com
-DOMAIN-KEYWORD,sankakucomplex
-#JP
 DOMAIN-KEYWORD,dmm
 DOMAIN-KEYWORD,mora
 DOMAIN-KEYWORD,erogamescape
