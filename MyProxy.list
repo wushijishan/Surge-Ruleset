@@ -26,7 +26,7 @@ DOMAIN-SUFFIX,creatjs.com
 DOMAIN-SUFFIX,cloudflare.com
 DOMAIN,statuse.digitalcertvalidation.com
 DOMAIN-SUFFIX,rapidssl.com
-# DOMAIN-KEYWORD,ocsp
+DOMAIN,ocsp.digicert.com
 DOMAIN-SUFFIX,tempestapp.io
 DOMAIN-SUFFIX,sonos.com
 # Amazon
