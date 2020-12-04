@@ -543,9 +543,3 @@ DOMAIN-SUFFIX,metapix.net
 DOMAIN-SUFFIX,s3.amazonaws.com
 DOMAIN-SUFFIX,zaobao.com.sg
 DOMAIN,ocsp.apple.com
-# 定制
-DOMAIN-SUFFIX,bahamut.com.tw
-DOMAIN-SUFFIX,gamer.com.tw
-DOMAIN-SUFFIX,fc2.com
-DOMAIN-SUFFIX,amazon.com
-DOMAIN-SUFFIX,xeton.dev
