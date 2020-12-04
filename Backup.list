@@ -57,3 +57,12 @@ DOMAIN,apple.comscoreresearch.com
 #DOMAIN-SUFFIX,delivery.mp.microsoft.com
 #DOMAIN,assets1.xboxlive.cn
 #DOMAIN,assets2.xboxlive.cn
+# 日本大流量
+DOMAIN-SUFFIX,cf-priv.mora.jp
+DOMAIN-SUFFIX,cc3001.dmm.co.jp
+DOMAIN-SUFFIX,file.chobit.cc
+DOMAIN-SUFFIX,trial.dlsite.com
+DOMAIN-SUFFIX,play.dl.dlsite.com
+DOMAIN-SUFFIX,download.dlsite.com
+DOMAIN-SUFFIX,dictionarystore.com
+DOMAIN-SUFFIX,bw-bv-epubs.bookwalker.jp
