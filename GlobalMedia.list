@@ -286,3 +286,8 @@ DOMAIN-SUFFIX,e-hentai.org
 DOMAIN-SUFFIX,ehgt.org
 DOMAIN-SUFFIX,exhentai.org
 DOMAIN-SUFFIX,hath.network
+# 定制（高速，流量消耗小）
+DOMAIN-SUFFIX,bahamut.com.tw
+DOMAIN-SUFFIX,gamer.com.tw
+DOMAIN-SUFFIX,fc2.com
+DOMAIN-SUFFIX,amazon.com
