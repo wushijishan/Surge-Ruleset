@@ -1,7 +1,5 @@
 DOMAIN,www.bookwalker.com.tw
 DOMAIN-SUFFIX,api.ipify.org
-DOMAIN-SUFFIX,books.com.tw
-DOMAIN-KEYWORD,fanatical
 #Bahamut
 USER-AGENT,Anime*
 DOMAIN-SUFFIX,ani.gamer.com.tw
