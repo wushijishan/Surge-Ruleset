@@ -390,3 +390,5 @@ DOMAIN,activity.windows.com
 DOMAIN-SUFFIX,msftconnecttest.com
 DOMAIN,settings-win.data.microsoft.com
 DOMAIN-SUFFIX,msn.cn
+DOMAIN-SUFFIX,msn.com
+DOMAIN-SUFFIX,windows.net
