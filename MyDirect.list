@@ -32,6 +32,7 @@ DOMAIN-SUFFIX,tenmax.io
 DOMAIN,pubads.g.doubleclick.net
 DOMAIN,www.google-analytics.com
 DOMAIN,www.googletagmanager.com
+DOMAIN,www.googletagservices.com
 # > Rixcloud
 DOMAIN-SUFFIX,tempestkb.io
 DOMAIN,doh.rixcloud.dev
