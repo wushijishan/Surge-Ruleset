@@ -30,6 +30,8 @@ DOMAIN-SUFFIX,fe.apple-dns.net
 # > Bahamut ADs
 DOMAIN-SUFFIX,tenmax.io
 DOMAIN,pubads.g.doubleclick.net
+DOMAIN,www.google-analytics.com
+DOMAIN,www.googletagmanager.com
 # > Rixcloud
 DOMAIN-SUFFIX,tempestkb.io
 DOMAIN,doh.rixcloud.dev
