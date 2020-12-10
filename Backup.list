@@ -1,6 +1,6 @@
 # bahamut TV
 DOMAIN,googleads.g.doubleclick.net
-DOMAIN,pubads.g.doubleclick.net
+#DOMAIN,pubads.g.doubleclick.net
 DOMAIN,imasdk.googleapis.com
 DOMAIN,pagead2.googlesyndication.com
 # Desktop and IOS
