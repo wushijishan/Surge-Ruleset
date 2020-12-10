@@ -29,21 +29,9 @@ DOMAIN,maxcdn.bootstrapcdn.com
 DOMAIN-SUFFIX,fe.apple-dns.net
 # > Bahamut ADs
 DOMAIN-SUFFIX,tenmax.io
-#DOMAIN,pubads.g.doubleclick.net
 DOMAIN,www.google-analytics.com
 DOMAIN,www.googletagmanager.com
 DOMAIN,www.googletagservices.com
-# > Rixcloud
-DOMAIN-SUFFIX,tempestkb.io
-DOMAIN,doh.rixcloud.dev
-DOMAIN-SUFFIX,rixcloud.io
-DOMAIN-SUFFIX,cloudprofile.io
-DOMAIN,gravatar.rixcloud.dev
-DOMAIN-SUFFIX,ruleset.dev
-DOMAIN-SUFFIX,tempestkb.io
-#DOMAIN-SUFFIX,tempestapp.io
-DOMAIN-SUFFIX,statuspage.io
-DOMAIN,status.mcnocean.com
 # > Sonos Apple Music
 DOMAIN,sonos-music.apple.com
 DOMAIN,streamingaudio.itunes.apple.com
