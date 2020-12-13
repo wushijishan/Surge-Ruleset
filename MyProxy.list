@@ -35,7 +35,7 @@ DOMAIN,statuse.digitalcertvalidation.com
 DOMAIN-SUFFIX,rapidssl.com
 DOMAIN,ocsp.digicert.com
 DOMAIN-SUFFIX,tempestapp.io
-DOMAIN-SUFFIX,sonos.com
+DOMAIN,www.sonos.com
 # Amazon
 DOMAIN,api.amazonalexa.com
 DOMAIN,api.fe.amazonalexa.com
