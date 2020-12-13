@@ -28,7 +28,6 @@ DOMAIN,emby-best.xeton.dev
 DOMAIN,maxcdn.bootstrapcdn.com
 DOMAIN-SUFFIX,fe.apple-dns.net
 # > Bahamut ADs
-#DOMAIN,ssp.tenmax.io
 DOMAIN,www.google-analytics.com
 DOMAIN,www.googletagmanager.com
 DOMAIN,www.googletagservices.com
