@@ -8,6 +8,7 @@ DOMAIN-SUFFIX,gamer.com.tw
 #DOMAIN-SUFFIX,api.gamer.com.tw
 DOMAIN,gamer-cds.cdn.hinet.net
 DOMAIN,gamer2-cds.cdn.hinet.net
+DOMAIN,flury-ycpi.gycpi.b.yahoodns.net
 #LineTV
 USER-AGENT,LINE%20TV*
 DOMAIN-SUFFIX,linetv.tw
