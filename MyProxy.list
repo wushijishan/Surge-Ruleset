@@ -3,8 +3,6 @@ DOMAIN-SUFFIX,jquery.com
 DOMAIN-SUFFIX,nssurge.com
 DOMAIN-SUFFIX,cc3001.dmm.co.jp
 DOMAIN-SUFFIX,dictionarystore.com
-DOMAIN-SUFFIX,goldenhillsoftware.com
-DOMAIN-KEYWORD,sankakucomplex
 DOMAIN-SUFFIX,books.com.tw
 DOMAIN-KEYWORD,fanatical
 DOMAIN-SUFFIX,animeanime.jp
@@ -34,7 +32,6 @@ DOMAIN-SUFFIX,cloudflare.com
 DOMAIN,statuse.digitalcertvalidation.com
 DOMAIN-SUFFIX,rapidssl.com
 DOMAIN,ocsp.digicert.com
-DOMAIN-SUFFIX,tempestapp.io
 DOMAIN,www.sonos.com
 # Amazon
 DOMAIN,api.amazonalexa.com
