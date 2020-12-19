@@ -2,7 +2,6 @@ DOMAIN-KEYWORD,sankakucomplex
 DOMAIN-KEYWORD,humblebundle
 DOMAIN-SUFFIX,jquery.com
 DOMAIN-SUFFIX,nssurge.com
-DOMAIN-SUFFIX,cc3001.dmm.co.jp
 DOMAIN-SUFFIX,dictionarystore.com
 DOMAIN-SUFFIX,books.com.tw
 DOMAIN-KEYWORD,fanatical
@@ -55,3 +54,7 @@ DOMAIN-KEYWORD,toranoana
 DOMAIN-SUFFIX,age-soft.com
 DOMAIN-SUFFIX,asahi.com
 DOMAIN-SUFFIX,bookwalker.jp
+# DMM Media
+DOMAIN,cc3001.dmm.co.jp
+DOMAIN,p.dmm.co.jp
+DOMAIN,pics.dmm.co.jp
