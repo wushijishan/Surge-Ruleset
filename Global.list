@@ -1,4 +1,4 @@
-# Global.list 2020/11/16 https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Global.list
+# Global.list 2021/1/11 https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Global.list
 # (DNS Cache Pollution)
 # > Apple
 DOMAIN,testflight.apple.com
@@ -545,3 +545,4 @@ DOMAIN-SUFFIX,s3.amazonaws.com
 DOMAIN-SUFFIX,zaobao.com.sg
 DOMAIN,international-gfe.download.nvidia.com
 DOMAIN,ocsp.apple.com
+DOMAIN,store-images.s-microsoft.com
