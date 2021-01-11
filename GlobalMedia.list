@@ -1,4 +1,4 @@
-# 2020/12/1 https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/StreamingMedia/Streaming.list
+# 2021/1/11 https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/StreamingMedia/Streaming.list
 # GlobalMedia.list
 # (Podcast)
 # > Himalaya
@@ -222,7 +222,6 @@ USER-AGENT,Niconico*
 DOMAIN-SUFFIX,dmc.nico
 DOMAIN-SUFFIX,nicovideo.jp
 DOMAIN-SUFFIX,nimg.jp
-DOMAIN-SUFFIX,socdm.com
 # > Now E
 DOMAIN-SUFFIX,nowe.com
 DOMAIN-SUFFIX,nowestatic.com
