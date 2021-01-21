@@ -37,23 +37,6 @@ DOMAIN,www.sonos.com
 DOMAIN,api.amazonalexa.com
 DOMAIN,api.fe.amazonalexa.com
 DOMAIN,fireoscaptiveportal.com
-# AnycastJP
-DOMAIN-KEYWORD,erogamescape
-DOMAIN-KEYWORD,akibablog
-DOMAIN,resize.blogsys.jp
-DOMAIN-SUFFIX,blogimg.jp
-DOMAIN-SUFFIX,i-mobile.co.jp
-DOMAIN-SUFFIX,livedoor.jp
-DOMAIN-SUFFIX,livedoor.com
-DOMAIN-SUFFIX,blog.jp
-DOMAIN-SUFFIX,dlsite.jp
-DOMAIN-SUFFIX,dlsite.com
-DOMAIN-SUFFIX,aniplexplus.com
-DOMAIN-SUFFIX,4gamer.net
-DOMAIN-KEYWORD,toranoana
-DOMAIN-SUFFIX,age-soft.com
-DOMAIN-SUFFIX,asahi.com
-DOMAIN-SUFFIX,bookwalker.jp
 # DMM Media
 DOMAIN,cc3001.dmm.co.jp
 DOMAIN,p.dmm.co.jp
