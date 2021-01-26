@@ -22,6 +22,11 @@ DOMAIN-KEYWORD,toranoana
 DOMAIN-SUFFIX,age-soft.com
 DOMAIN-SUFFIX,asahi.com
 DOMAIN-SUFFIX,bookwalker.jp
+# E-hentai
+DOMAIN-SUFFIX,e-hentai.org
+DOMAIN-SUFFIX,ehgt.org
+DOMAIN-SUFFIX,exhentai.org
+DOMAIN-SUFFIX,hath.network
 # > Hulu / フールー
 DOMAIN-SUFFIX,happyon.jp
 DOMAIN-SUFFIX,hulu.jp
