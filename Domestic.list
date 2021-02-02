@@ -1,4 +1,4 @@
-# 2021/1/11 https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/China.list
+# 2021/2/2 https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/China.list
 # Domestic.list
 # China Area Network
 # > 360
@@ -245,6 +245,7 @@ DOMAIN-SUFFIX,chuimg.com
 DOMAIN-SUFFIX,chunyu.mobi
 DOMAIN-SUFFIX,cmbchina.com
 DOMAIN-SUFFIX,cmbimg.com
+DOMAIN-SUFFIX,coolapk.com
 DOMAIN-SUFFIX,ctrip.com
 DOMAIN-SUFFIX,dfcfw.com
 DOMAIN-SUFFIX,dji.net
@@ -299,7 +300,7 @@ DOMAIN-SUFFIX,myzaker.com
 DOMAIN-SUFFIX,nim-lang-cn.org
 DOMAIN-SUFFIX,nvidia.com
 DOMAIN-SUFFIX,oracle.com
-DOMAIN-SUFFIX,originlab.com
+DOMAIN-SUFFIX,pcbeta.com
 DOMAIN-SUFFIX,plex.tv
 DOMAIN-SUFFIX,qdaily.com
 DOMAIN-SUFFIX,qidian.com
