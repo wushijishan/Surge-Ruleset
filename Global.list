@@ -1,4 +1,4 @@
-# Global.list 2021/1/11 https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Global.list
+# Global.list 2021/2/19 https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Global.list
 # (DNS Cache Pollution)
 # > Apple
 DOMAIN,testflight.apple.com
@@ -9,11 +9,13 @@ DOMAIN-SUFFIX,getoutline.org
 DOMAIN-SUFFIX,gvt0.com
 DOMAIN-SUFFIX,gvt3.com
 DOMAIN-SUFFIX,xn--ngstr-lra8j.com
+DOMAIN-SUFFIX,ytimg.com
 DOMAIN-KEYWORD,google
 DOMAIN-KEYWORD,.blogspot.
 # > Microsoft
 DOMAIN-SUFFIX,aka.ms
 DOMAIN-SUFFIX,onedrive.live.com
+DOMAIN-SUFFIX,streaming.mediaservices.windows.net
 DOMAIN,az416426.vo.msecnd.net
 DOMAIN,az668014.vo.msecnd.net
 # > Facebook
@@ -74,6 +76,9 @@ DOMAIN,s3-ap-southeast-2.amazonaws.com
 # > Akamai
 DOMAIN,a248.e.akamai.net
 DOMAIN,a771.dscq.akamai.net
+# > Clubhouse
+DOMAIN-SUFFIX,clubhouseapi.com
+DOMAIN-SUFFIX,joinclubhouse.com
 # > Others
 DOMAIN-SUFFIX,4shared.com
 DOMAIN-SUFFIX,9cache.com
@@ -445,7 +450,6 @@ DOMAIN-SUFFIX,mil
 
 # (IP Blackhole)
 # > Google
-DOMAIN-SUFFIX,google
 DOMAIN-SUFFIX,abc.xyz
 DOMAIN-SUFFIX,advertisercommunity.com
 DOMAIN-SUFFIX,ampproject.org
@@ -536,8 +540,12 @@ DOMAIN-SUFFIX,shopeemobile.com
 URL-REGEX,http:\/\/img\.sina\.com\/usweibo\/
 
 # (Network Jitter)
-# > Fix download or update is stuck in App Store,and when change the Apple ID region,the payment information can be selected by none.
-DOMAIN-KEYWORD,buy.itunes.apple.com
+# > DigiCert
+DOMAIN,cacerts.digicert.com
+DOMAIN,crl3.digicert.com
+DOMAIN,crl4.digicert.com
+DOMAIN,ocsp.digicert.com
+# > Others
 DOMAIN-SUFFIX,cloudcone.com.cn
 DOMAIN-SUFFIX,inkbunny.net
 DOMAIN-SUFFIX,metapix.net
