@@ -27,7 +27,6 @@ DOMAIN,in.appcenter.ms
 DOMAIN,emby-best.xeton.dev
 DOMAIN,maxcdn.bootstrapcdn.com
 DOMAIN-SUFFIX,fe.apple-dns.net
-DOMAIN-SUFFIX,emby.wtf
 # > Bahamut ADs
 DOMAIN,www.google-analytics.com
 DOMAIN,www.googletagmanager.com
