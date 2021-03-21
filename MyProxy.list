@@ -33,6 +33,7 @@ DOMAIN-SUFFIX,rapidssl.com
 DOMAIN,ocsp.digicert.com
 DOMAIN,www.sonos.com
 DOMAIN-KEYWORD,erogamescape
+DOMAIN-SUFFIX,emby.wtf
 # Amazon
 DOMAIN,api.amazonalexa.com
 DOMAIN,api.fe.amazonalexa.com
