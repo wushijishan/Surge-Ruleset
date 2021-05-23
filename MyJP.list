@@ -6,7 +6,6 @@ IP-CIDR,203.104.209.0/24,no-resolve
 IP-CIDR,202.6.244.0/22,no-resolve
 IP-CIDR,157.112.80.0/20,no-resolve
 # AnycastJP
-DOMAIN-KEYWORD,sankakucomplex
 DOMAIN-KEYWORD,akibablog
 DOMAIN,resize.blogsys.jp
 DOMAIN-SUFFIX,blogimg.jp
