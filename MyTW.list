@@ -19,6 +19,6 @@ DOMAIN-SUFFIX,kktv.com.tw
 DOMAIN-SUFFIX,kktv.me
 DOMAIN,kktv-theater.kk.stream
 DOMAIN-SUFFIX,friday.tw
-# 神机 (HKMTMedia) 2020/2/13 https://github.com/ConnersHua/Profiles/blob/master/Surge/Ruleset/HKMTMedia.list
 # > 愛奇藝台灣站
-# DOMAIN,cache.video.iqiyi.com
+DOMAIN,cache.video.iqiyi.com
+IP-CIDR,116.211.202.206/32,no-resolve
