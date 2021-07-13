@@ -35,7 +35,7 @@ DOMAIN,www.googletagservices.com
 # > Sonos Apple Music
 DOMAIN,sonos-music.apple.com
 DOMAIN,streamingaudio.itunes.apple.com
-# Unbreak  20201211 https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Unbreak.list
+# Unbreak
 # > General
 USER-AGENT,archero*
 USER-AGENT,coffeecorp*
