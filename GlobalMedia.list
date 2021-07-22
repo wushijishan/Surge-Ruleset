@@ -48,6 +48,9 @@ USER-AGENT,YouTubeMusic*
 # > Himalaya
 USER-AGENT,Himalaya*
 DOMAIN-SUFFIX,himalaya.com
+# > Overcast
+USER-AGENT,Overcast*
+DOMAIN-SUFFIX,overcast.fm
 
 # (Video)
 # > AbemaTV
@@ -78,6 +81,7 @@ DOMAIN,dmqdd6hw24ucf.cloudfront.net
 DOMAIN,d22qjgkvxw22r6.cloudfront.net
 DOMAIN,d1v5ir2lpwr8os.cloudfront.net
 DOMAIN,d27xxe7juh1us6.cloudfront.net
+# DOMAIN,www.amazon.com
 DOMAIN-KEYWORD,avoddashs
 # > Apple TV
 DOMAIN,linear.tv.apple.com
@@ -96,7 +100,11 @@ DOMAIN-KEYWORD,bbcfmt
 DOMAIN-KEYWORD,uk-live
 # > bilibili Intl
 DOMAIN-SUFFIX,biliintl.com
+DOMAIN,apm-misaka.biliapi.net
+DOMAIN,p.bstarstatic.com
+DOMAIN,p-bstarstatic.akamaized.net
 DOMAIN,upos-bstar-mirrorakam.akamaized.net
+DOMAIN,upos-bstar1-mirrorakam.akamaized.net
 # > DAZN
 USER-AGENT,DAZN*
 DOMAIN-SUFFIX,dazn.com
@@ -203,6 +211,9 @@ DOMAIN,d3c7rimkq79yfu.cloudfront.net
 # > LiTV
 DOMAIN-SUFFIX,litv.tv
 DOMAIN,litvfreemobile-hichannel.cdn.hinet.net
+# > MangoTV(芒果TV国际)
+DOMAIN-SUFFIX,api.mgtv.com
+DOMAIN,mobileso.bz.mgtv.com
 # > My5
 USER-AGENT,My5*
 DOMAIN-SUFFIX,channel5.com
@@ -271,6 +282,9 @@ DOMAIN,link.theplatform.com
 # > PBS
 USER-AGENT,PBS*
 DOMAIN-SUFFIX,pbs.org
+# > Peacock
+USER-AGENT,PeacockMobile*
+DOMAIN-SUFFIX,peacocktv.com
 # > Pornhub
 DOMAIN-SUFFIX,phncdn.com
 DOMAIN-SUFFIX,phprcdn.com
