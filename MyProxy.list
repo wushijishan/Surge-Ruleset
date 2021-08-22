@@ -33,7 +33,6 @@ DOMAIN,statuse.digitalcertvalidation.com
 DOMAIN-SUFFIX,rapidssl.com
 DOMAIN,ocsp.digicert.com
 DOMAIN,www.sonos.com
-DOMAIN-SUFFIX,emby.wtf
 # Amazon
 DOMAIN,api.amazonalexa.com
 DOMAIN,api.fe.amazonalexa.com
