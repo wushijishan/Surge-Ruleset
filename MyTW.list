@@ -3,8 +3,10 @@ DOMAIN,www.bookwalker.com.tw
 DOMAIN-SUFFIX,api.ipify.org
 #Bahamut
 USER-AGENT,Anime*
-DOMAIN,ani.gamer.com.tw
-DOMAIN-SUFFIX,api.gamer.com.tw
+DOMAIN-SUFFIX,bahamut.com.tw
+DOMAIN-SUFFIX,gamer.com.tw
+#DOMAIN,ani.gamer.com.tw
+#DOMAIN-SUFFIX,api.gamer.com.tw
 DOMAIN,gamer-cds.cdn.hinet.net
 DOMAIN,gamer2-cds.cdn.hinet.net
 IP-CIDR,104.16.181.30/32,no-resolve
