@@ -10,6 +10,10 @@ DOMAIN,a248.e.akamai.net
 DOMAIN,a771.dscq.akamai.net
 # > Apple
 DOMAIN,testflight.apple.com
+# > Bloomberg
+DOMAIN-SUFFIX,bloomberg.cn
+DOMAIN-SUFFIX,bloomberg.com
+DOMAIN-SUFFIX,bloomberg.de
 # > Clubhouse
 DOMAIN-SUFFIX,clubhouseapi.com
 DOMAIN-SUFFIX,joinclubhouse.com
@@ -32,6 +36,7 @@ DOMAIN-SUFFIX,coincheck.com
 DOMAIN-SUFFIX,coingecko.com
 DOMAIN-SUFFIX,coinmarketcap.com
 DOMAIN-SUFFIX,coinone.co.kr
+DOMAIN-SUFFIX,etherscan.io
 DOMAIN-SUFFIX,ftx.com
 DOMAIN-SUFFIX,gate.io
 DOMAIN-SUFFIX,gemini.com
@@ -53,11 +58,14 @@ DOMAIN-SUFFIX,dropbox.com
 DOMAIN-SUFFIX,dropboxapi.com
 DOMAIN-SUFFIX,dropboxusercontent.com
 # > Facebook
+DOMAIN-SUFFIX,accountkit.com
 DOMAIN-SUFFIX,cdninstagram.com
+DOMAIN-SUFFIX,f8.com
 DOMAIN-SUFFIX,facebook.com
 DOMAIN-SUFFIX,facebook.net
 DOMAIN-SUFFIX,fb.com
 DOMAIN-SUFFIX,fb.me
+DOMAIN-SUFFIX,fb.watch
 DOMAIN-SUFFIX,fbaddins.com
 DOMAIN-SUFFIX,fbcdn.net
 DOMAIN-SUFFIX,fbsbx.com
@@ -161,6 +169,9 @@ DOMAIN-SUFFIX,wikimedia.org
 DOMAIN-SUFFIX,wikinews.org
 DOMAIN-SUFFIX,wikipedia.org
 DOMAIN-SUFFIX,wikiquote.org
+# > Yandex
+DOMAIN-SUFFIX,yadi.sk
+DOMAIN,disk.yandex.com
 # > Others
 DOMAIN-SUFFIX,4shared.com
 DOMAIN-SUFFIX,9cache.com
@@ -196,8 +207,6 @@ DOMAIN-SUFFIX,behance.net
 DOMAIN-SUFFIX,biggo.com.tw
 DOMAIN-SUFFIX,bit.ly
 DOMAIN-SUFFIX,bloglovin.com
-DOMAIN-SUFFIX,bloomberg.cn
-DOMAIN-SUFFIX,bloomberg.com
 DOMAIN-SUFFIX,blubrry.com
 DOMAIN-SUFFIX,book.com.tw
 DOMAIN-SUFFIX,booklive.jp
@@ -254,7 +263,6 @@ DOMAIN-SUFFIX,elpais.com
 DOMAIN-SUFFIX,enanyang.my
 DOMAIN-SUFFIX,encyclopedia.com
 DOMAIN-SUFFIX,esoir.be
-DOMAIN-SUFFIX,etherscan.io
 DOMAIN-SUFFIX,euronews.com
 DOMAIN-SUFFIX,evozi.com
 DOMAIN-SUFFIX,exblog.jp
@@ -479,7 +487,6 @@ DOMAIN-SUFFIX,xn--90wwvt03e.com
 DOMAIN-SUFFIX,xn--i2ru8q2qg.com
 DOMAIN-SUFFIX,xnxx.com
 DOMAIN-SUFFIX,xvideos.com
-DOMAIN-SUFFIX,yadi.sk
 DOMAIN-SUFFIX,yahoo.com
 DOMAIN-SUFFIX,yandex.ru
 DOMAIN-SUFFIX,ycombinator.com
@@ -494,6 +501,7 @@ DOMAIN-SUFFIX,z-lib.org
 DOMAIN-SUFFIX,zoom.us
 
 DOMAIN,cc.tvbs.com.tw
+DOMAIN,cloud-cdn-digitalocean-com.global.ssl.fastly.net
 DOMAIN,ocsp.int-x3.letsencrypt.org
 DOMAIN,us.weibo.com
 
@@ -558,6 +566,7 @@ DOMAIN-SUFFIX,telesco.pe
 # > Facebook
 DOMAIN-KEYWORD,.facebook.
 DOMAIN-SUFFIX,facebookmail.com
+DOMAIN-SUFFIX,parse.com
 # > Others
 DOMAIN-SUFFIX,noxinfluencer.com
 DOMAIN-SUFFIX,smartmailcloud.com
