@@ -260,6 +260,7 @@ DOMAIN-SUFFIX,aex.com
 DOMAIN-SUFFIX,bibox.com
 DOMAIN-SUFFIX,binance.cc
 DOMAIN-SUFFIX,binance.com
+DOMAIN-SUFFIX,binance.me
 DOMAIN-SUFFIX,binance.us
 DOMAIN-SUFFIX,bitcointalk.org
 DOMAIN-SUFFIX,bitfinex.com
@@ -345,6 +346,7 @@ DOMAIN,assets2.xboxlive.com
 DOMAIN,az416426.vo.msecnd.net
 DOMAIN,az668014.vo.msecnd.net
 # > Pinterest
+DOMAIN-SUFFIX,pinimg.com
 DOMAIN-KEYWORD,.pinterest.
 # > pixiv
 DOMAIN-SUFFIX,pixiv.net
