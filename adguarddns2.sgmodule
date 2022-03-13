@@ -1,1 +1,6 @@
-
+#!name=adguard home dns 2
+#!desc=adguard home dns 2
+[General]
+dns-server = 119.29.29.29
+[Host]
+*.xboxlive.cn = server:119.29.29.29
