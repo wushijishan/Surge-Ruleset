@@ -12,7 +12,7 @@ DOMAIN-SUFFIX,xbox-now.com
 DOMAIN-SUFFIX,rtings.com
 DOMAIN-SUFFIX,nintendo.co.jp
 DOMAIN-SUFFIX,nintendo.net
-DOMAIN-SUFFIX,nintendo.com
+#DOMAIN-SUFFIX,nintendo.com
 DOMAIN-SUFFIX,limetorrents.info
 DOMAIN,sukebei.nyaa.si
 DOMAIN-SUFFIX,skype.com
