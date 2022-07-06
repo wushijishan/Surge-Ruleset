@@ -6,6 +6,6 @@ http-response ^https?:\/\/img2\.jintiankansha\.me script-path=https://raw.github
 
 var url = $request.url;
 
-$done({str.substring(9)})
+$done({url.substring(9)})
 
 // by Jishan
