@@ -1,6 +1,6 @@
 #!name=adguard home dns 2
 #!desc=adguard home dns 2
 [General]
-dns-server = %APPEND%211.138.151.16, 211.138.156.66
+dns-server = %APPEND%211.138.151.161, 211.138.156.66
 [Host]
 *.xboxlive.cn = server:119.29.29.29
